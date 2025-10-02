@@ -5,6 +5,7 @@
 ### 1. Initial Setup (One-Time)
 
 **Download and organize the automation scripts:**
+
 ```
 project_folder/
 ├── setup_config.R
